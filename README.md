@@ -41,10 +41,8 @@ with demographic and family-relationship annotations — in
 
 **Raw sequencing data.** Raw exome and RNA-seq sequencing data (FASTQ/BAM/CRAM)
 underlying these analyses are available under controlled access via
-`[REPOSITORY NAME, e.g., dbGaP]` under accession `[ACCESSION NUMBER, e.g.,
-phsXXXXXX.vN]`, subject to institutional approval given participant privacy
-considerations. *(Placeholder — please fill in the repository and accession
-once assigned.)*
+`Gabriella Miller Kids First Pediatric Research Project in Cornelia de Lange Syndrome, Related Diagnosis and Structural Birth Defects` under accession `phs002174.v1.p1`, subject to institutional approval given participant privacy
+considerations.
 
 ## Overview
 
