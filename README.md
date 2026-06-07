@@ -4,7 +4,7 @@ This directory contains the custom scripts and pipeline configuration files used
 for the analyses described in the manuscript. It is intended to accompany the
 deposited code repository referenced in the manuscript's **Code availability**
 statement; the underlying sequencing/expression data referenced by these scripts
-are deposited separately on Zenodo/FigShare (see **Data availability**).
+are deposited separately on [FigShare](10.6084/m9.figshare.32595099).
 
 ## Overview
 
